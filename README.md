@@ -6,3 +6,5 @@ Hier kann man tägliche Aufnahme der Lebensmittel eingeben. Auf der Tabelle werd
 - Python
 - Pandas
 - Streamlit
+## mögliche Erweiterung
+- Deployment als Webapp
